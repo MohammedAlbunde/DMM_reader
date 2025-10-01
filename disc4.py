@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Live DMM logger → SQLite
-Author: you
+Author:Mohammed Al-Bunde (Mohammed Al-Nidawi)
 """
 import pyvisa
 import sqlite3
